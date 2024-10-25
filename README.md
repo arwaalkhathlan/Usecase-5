@@ -24,6 +24,7 @@
 تثبيت المكتبات باستخدام الأمر:
 ```bash
 pip install streamlit pandas matplotlib seaborn plotly
+```
 
 بعد تقدر تحمل المتطلبات بطريقة ثانيه:
 ```bash
