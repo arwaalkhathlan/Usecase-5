@@ -19,6 +19,10 @@ st.markdown(
     .main {
         text-align: center;
     }
+     body {
+        direction: rtl;
+        text-align: center; 
+    }
     </style>
     """,
     unsafe_allow_html=True
