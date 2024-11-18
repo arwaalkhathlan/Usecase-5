@@ -1,4 +1,3 @@
-I'll help create a bilingual README for the job market analysis application:
 
 # دليل سوق الوظائف | Job Market Guide
 
@@ -52,4 +51,3 @@ streamlit run data_story.py
 ```
 
 ---
-*Note: This bilingual README helps both Arabic and English speakers understand and use the job market analysis application.*
